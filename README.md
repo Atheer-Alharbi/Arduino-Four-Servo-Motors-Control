@@ -29,7 +29,6 @@ This project demonstrates how to control four servo motors simultaneously using 
 - Tinkercad
 
 ## Project Link
-Add your Tinkercad project link here.
-
+https://www.tinkercad.com/things/g3tKetGcL3U-super-kasi-esboo
 ## Author
 **Atheer Alharbi**
